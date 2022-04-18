@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>lamanh.nguyen@snc</sys_created_by>
+        <sys_created_on>2022-04-18 21:29:09</sys_created_on>
+        <sys_id>3e2d2ff71bb28d10d63a64a1b24bcbd1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_test_snc_2_test_snc.x_snc_test_snc_2.test_snc_user</sys_name>
+        <sys_package display_value="Test SNC 2" source="x_snc_test_snc_2">4a072bff1b728d10d63a64a1b24bcbde</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test SNC 2">4a072bff1b728d10d63a64a1b24bcbde</sys_scope>
+        <sys_security_acl display_value="x_snc_test_snc_2_test_snc">fa2d2ff71bb28d10d63a64a1b24bcbcc</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_3e2d2ff71bb28d10d63a64a1b24bcbd1</sys_update_name>
+        <sys_updated_by>lamanh.nguyen@snc</sys_updated_by>
+        <sys_updated_on>2022-04-18 21:29:09</sys_updated_on>
+        <sys_user_role display_value="x_snc_test_snc_2.test_snc_user" name="x_snc_test_snc_2.test_snc_user">e62debf71bb28d10d63a64a1b24bcb97</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
